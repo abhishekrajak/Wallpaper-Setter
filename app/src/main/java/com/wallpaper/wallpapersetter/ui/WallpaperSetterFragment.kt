@@ -389,5 +389,4 @@ class WallpaperSetterFragment : Fragment() {
     private fun decodeByteToImage(byteArray: ByteArray) : Bitmap {
         return BitmapFactory.decodeStream(ByteArrayInputStream(byteArray))
     }
-
 }
