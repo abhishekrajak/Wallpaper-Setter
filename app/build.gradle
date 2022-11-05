@@ -18,8 +18,8 @@ android {
         applicationId "com.github.abhishekrajak.wallpaper_set"
         minSdk 24
         targetSdk 32
-        versionCode 8
-        versionName "2.0.1"
+        versionCode 9
+        versionName "2.0.2"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         multiDexEnabled true
