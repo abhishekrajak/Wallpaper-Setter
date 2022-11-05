@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Wallpaper</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="wallpaper">wallpaper</string>
+    <string name="left_icon">left_icon</string>
+    <string name="right_icon">right_icon</string>
+    <string name="wallpaper_set_button">wallpaper_set_button</string>
+    <string name="download_button">download_button</string>
+    <string name="wallpaper_set_unsuccessful">Wallpaper set error</string>
+    <string name="wallpaper_set_successful">Wallpaper set successfully</string>
+    <string name="cannot_save_bitmap">\"Couldn\'t save bitmap\"</string>
+    <string name="wallpaper_set_header">Set Wallpaper</string>
+    <string name="wallpaper_set_message">Where do you want to set this wallpaper?</string>
+    <string name="homescreen">HOMESCREEN</string>
+    <string name="lockscreen">LOCKSCREEN</string>
+    <string name="both">BOTH</string>
+    <string name="allow">Allow</string>
+    <string name="deny">Deny</string>
+    <string name="require_permission_header">Require permission</string>
+    <string name="require_permission_message">please allow permission to download wallpaper then try again to download</string>
+    <string name="file_download_success">File downloaded successfully</string>
+    <string name="cannot_create_mediastore_entry">\"Couldn\'t create MediaStore entry\"</string>
+    <string name="retry">Retry</string>
+    <string name="okay">Okay</string>
+    <string name="error">Error!</string>
+    <string name="try_again_later">Something went wrong!! Check your internet connection!! Please try again!!</string>
+    <string name="no_more_images">No more images to the left</string>
+
+</resources>
